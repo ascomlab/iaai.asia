@@ -535,9 +535,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .section-header-v2 {
   margin: auto;
-  width: auto;
-  border: 2px solid #50d8af;
-  padding: 20px;
+  width: auto;  
 }
 
 .section-header-v2 h2 {
@@ -545,7 +543,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #0c2e8a;
   text-transform: uppercase;
   font-weight: 700;
-  position: auto;
+  position: relative;
   padding-bottom: 20px;
 }
 
