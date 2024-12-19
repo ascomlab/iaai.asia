@@ -537,16 +537,16 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: auto;
 }
 
-.section-header_v2 h2 {
+.section-header_v2 h1 {
   font-size: 32px;
   color: #0c2e8a;
   text-transform: uppercase;
-  font-weight: 800;
+  font-weight: 700;
   position: relative;
   padding-bottom: 20px;
 }
 
-.section-header_v2 h2::before {
+.section-header_v2 h1::before {
   content: '';
   position: absolute;
   display: block;
