@@ -530,15 +530,15 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0;
 }
 
-/* Sections Header v2
+/* Sections Header version 2
 --------------------------------*/
 
-.section-header-v2 {
+.section-header2v {
   margin: auto;
   width: 400;  
 }
 
-.section-header-v2 h2 {
+.section-header2v h2 {
   font-size: 34px;
   color: #0c2e8a;
   text-transform: uppercase;
@@ -547,7 +547,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-bottom: 20px;
 }
 
-/* section-header-v2 h2::before {
+/* section-header2v h2::before {
   content: '';
   position: absolute;
   display: block;
@@ -558,7 +558,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   left: 0;
 } */
 
-.section-header-v2 p {
+.section-header2v p {
   padding: 0;
   margin: 0;
 }
