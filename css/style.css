@@ -530,6 +530,39 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0;
 }
 
+/* Sections Header v2
+--------------------------------*/
+
+.section-header-v2 {
+  margin-bottom: 30px;
+}
+
+.section-header-v2 h2 {
+  font-size: 32px;
+  color: #50d8af;
+  text-transform: uppercase;
+  font-weight: 700;
+  position: center;
+  padding-bottom: 20px;
+}
+
+.section-header-v2 h2::before {
+  content: '';
+  position: center;
+  display: block;
+  width: 50px;
+  height: 3px;
+  background: #fc7d1c;
+  bottom: 0;
+  left: 0;
+}
+
+.section-header-v2 p {
+  padding: 0;
+  margin: 0;
+}
+
+
 /* About Section
 --------------------------------*/
 
