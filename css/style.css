@@ -536,15 +536,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 .section-header-v2 {
   margin: auto;
   width: 600px;
-  border: 5px solid #fc7d1c;
+  border: 2px solid #50d8af;
 }
 
 .section-header-v2 h2 {
-  font-size: 32px;
+  font-size: 48px;
   color: #0c2e8a;
   text-transform: uppercase;
   font-weight: 700;
-  position: relative;
+  position: auto;
   padding-bottom: 20px;
 }
 
