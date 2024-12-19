@@ -533,12 +533,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Sections Header version 2
 --------------------------------*/
 
-.section-header2v {
+.section-header-v2 {
   margin: auto;
   width: 400;  
 }
 
-.section-header2v h2 {
+.section-header-v2 h2 {
   font-size: 34px;
   color: #0c2e8a;
   text-transform: uppercase;
@@ -547,7 +547,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-bottom: 20px;
 }
 
-/* section-header2v h2::before {
+/* section-header-v2 h2::before {
   content: '';
   position: absolute;
   display: block;
@@ -558,7 +558,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   left: 0;
 } */
 
-.section-header2v p {
+.section-header-v2 p {
   padding: 0;
   margin: 0;
 }
