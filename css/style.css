@@ -547,7 +547,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-bottom: 20px;
 }
 
-/* .section-header-v2 h2::before {
+section-header-v2 h2::before {
   content: '';
   position: absolute;
   display: block;
@@ -556,7 +556,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #fc7d1c;
   bottom: 0;
   left: 0;
-} */
+}
 
 .section-header-v2 p {
   padding: 0;
